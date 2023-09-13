@@ -31,14 +31,14 @@
 console.log(task2()); */
 
 // different from Joonas's solving
-let anser = "";
+/* let answer = "";
 let end = 98;
 for (let i = 0; i < 100; i += 2) {
-  anser += " " + i + " ";
-  anser += " " + end + " ";
+  answer += " " + i + " ";
+  answer += " " + end + " ";
   end -= 2;
 }
-console.log(anser);
+console.log(answer); */
 
 // 3.  Make a program that asks repeatedly from the user the distance (km) and
 //     time (h) and calculates average speed. The program ends when user gives
@@ -97,8 +97,9 @@ task4(); */
 }
 task5(); */
 
-// to initiate WHILE declare variable
-/* let input;
+// to initiate WHILE declare variable with 0
+/* 
+let input = 0;
 let sum = 0;
 let count = 0;
 
