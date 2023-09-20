@@ -36,7 +36,7 @@ document.getElementById("task4").textContent = names[names.length - 1];
 
 // Task 5
 // Add Peter as the last item to the array and print the whole array
-//names.push("Peter");
+names.push("Peter");
 document.getElementById("task5").textContent = names;
 
 // Task 6
